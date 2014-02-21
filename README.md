@@ -5,7 +5,7 @@ I created this script because i manage many websites and most of the time they h
 
 Requirements
 ------------
-Composer
+Composer  
 PHPMailer Library
 
 Installation
